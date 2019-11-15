@@ -1,6 +1,0 @@
-print(f"a: {ord('a')}")
-print(f"b: {ord('b')}")
-print(f"c: {ord('c')}")
-print(f"d: {ord('d')}")
-print(str(ord('a')*ord('c')))
-print(str(ord('d')*ord('c')))
